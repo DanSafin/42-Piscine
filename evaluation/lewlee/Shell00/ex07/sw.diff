@@ -1,0 +1,33 @@
+1d0
+< Episode IV
+3,7c2,3
+< It is a period of civil war.
+< Rebel spaceships, striking
+< from a hidden base, have won
+< their first victory against
+< the evil Galactic Empire.
+---
+> It is a period of civil war. Rebel spaceships, striking
+> from a hidden base, have won their first victory against the evil Galactic Empire.
+9,15c5
+< During the battle, Rebel
+< spies managed to steal secret
+< plans to the Empire's
+< ultimate weapon, the DEATH
+< STAR, an armored space
+< station with enough power to
+< destroy an entire planet.
+---
+> During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DEATH STAR, an heavily armored space station with enough power to destroy entire planets.
+17,23c7
+< Pursued by the Empire's
+< sinister agents, Princess
+< Leia races home aboard her
+< starship, custodian of the
+< stolen plans that can save
+< her people and restore
+< freedom to the galaxy....
+\ No newline at end of file
+---
+> Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy
+\ No newline at end of file
